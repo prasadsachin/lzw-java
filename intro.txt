@@ -1,0 +1,5 @@
+I have basically created a compression and decompression program using lzw algorithm.
+There are basically three classes :
+1) main class : here i have called the other two classes.
+2)compression algorithm : lzw algorithm to compress files.
+3)decompression algorithm : lzw algorithm to decompress the conmpressed files. 
